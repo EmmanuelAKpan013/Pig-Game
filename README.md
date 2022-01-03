@@ -1,0 +1,2 @@
+# Pig-Game
+Pig Game is a game of rolling a dice. It can be played by one or two users. In this game, the first player to reach a score of 100 wins the game. On rolling the dice, the possibly of rolling a one is 1/6. On rolling a 1, the current score is lost and the second player gets a chance of rolling the dice. If you don't want to lose your current score, you can chose to hold your current and it will automatically get added to your final score. Have fun while playing!
